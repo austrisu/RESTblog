@@ -1,0 +1,21 @@
+{
+  "name": "rest_blog",
+  "version": "1.0.0",
+  "description": "blog using semantic UI and restful routing principles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-sanitizer": "^1.0.2",
+    "faker": "^4.1.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.0"
+  }
+}
